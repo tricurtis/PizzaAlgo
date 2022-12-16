@@ -1,4 +1,4 @@
 Step 1: Choose Pizza place
-Step 2: choose your Pizza 
+Step 2: Choose your Pizza
+Step 2a: Choose your toppings 
 Step 3: Order and enjoy!
-Step 4: This is a test!
